@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\ГРАФИКА\Lab12\obj\Debug\Lab12.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\ГРАФИКА\Lab12\obj\Debug\Lab12.Form1.resources
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\ГРАФИКА\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\ГРАФИКА\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\ГРАФИКА\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\ГРАФИКА\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\ГРАФИКА\Lab12\bin\Debug\Lab12.exe
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\ГРАФИКА\Lab12\bin\Debug\Lab12.pdb
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\ГРАФИКА\Lab12\obj\Debug\Lab12.exe
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\ГРАФИКА\Lab12\obj\Debug\Lab12.pdb
